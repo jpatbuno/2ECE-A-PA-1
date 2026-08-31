@@ -1,6 +1,6 @@
 # ECE 2112: Advanced Computer Programming and Algorithms
 **Experiment 1: Introduction to Python Programming**
-**Programmed by:** Buño, James Patrick T.
+**Programmed by:** || Buño, James Patrick T.
 
 This repository contains the Jupyter Notebook solution for **Experiment 1**, demonstrating the use of basic Python functions, operators, string operations, and sequence unpacking[cite: 2]. As per the laboratory instructions, no external Python libraries were used.
 
